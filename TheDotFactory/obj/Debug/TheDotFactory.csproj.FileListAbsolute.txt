@@ -1,0 +1,13 @@
+C:\Users\info\Documents\GitHub\the-dot-factory\TheDotFactory\bin\Debug\TheDotFactory.exe.config
+C:\Users\info\Documents\GitHub\the-dot-factory\TheDotFactory\bin\Debug\TheDotFactory.exe
+C:\Users\info\Documents\GitHub\the-dot-factory\TheDotFactory\bin\Debug\TheDotFactory.pdb
+C:\Users\info\Documents\GitHub\the-dot-factory\TheDotFactory\obj\Debug\TheDotFactory.csproj.AssemblyReference.cache
+C:\Users\info\Documents\GitHub\the-dot-factory\TheDotFactory\obj\Debug\TheDotFactory.AboutForm.resources
+C:\Users\info\Documents\GitHub\the-dot-factory\TheDotFactory\obj\Debug\TheDotFactory.InputBoxDialog.resources
+C:\Users\info\Documents\GitHub\the-dot-factory\TheDotFactory\obj\Debug\TheDotFactory.MainForm.resources
+C:\Users\info\Documents\GitHub\the-dot-factory\TheDotFactory\obj\Debug\TheDotFactory.OutputConfigurationForm.resources
+C:\Users\info\Documents\GitHub\the-dot-factory\TheDotFactory\obj\Debug\TheDotFactory.Properties.Resources.resources
+C:\Users\info\Documents\GitHub\the-dot-factory\TheDotFactory\obj\Debug\TheDotFactory.csproj.GenerateResource.cache
+C:\Users\info\Documents\GitHub\the-dot-factory\TheDotFactory\obj\Debug\TheDotFactory.csproj.CoreCompileInputs.cache
+C:\Users\info\Documents\GitHub\the-dot-factory\TheDotFactory\obj\Debug\TheDotFactory.exe
+C:\Users\info\Documents\GitHub\the-dot-factory\TheDotFactory\obj\Debug\TheDotFactory.pdb
